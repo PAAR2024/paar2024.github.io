@@ -1,0 +1,100 @@
+******************************************************************************
+                                                                            
+                                                                             
+        PAAR-2024: 9TH WORKSHOP ON PRACTICAL ASPECTS OF AUTOMATED REASONING 
+                   -- co-located with IJCAR 2024  -- 
+                                                                            
+                      July 2, 2024, Haifa, Israel
+                     
+             The paper submission deadline has been extended!
+
+        Web site: https://paar2024.github.io/
+        Submission link: https://easychair.org/XXXX
+        Abstract registration deadline: XXX
+        Submission deadline: XXX
+        Topics: automated reasoning, implementation, tools
+
+
+******************************************************************************
+
+
+The automation of logical reasoning is a challenge that has been
+studied intensively in fields including mathematics, philosophy, and
+computer science. PAAR is the workshop on turning this theory into
+practice: how can automated reasoning tools be built that work and are
+useful in applications? PAAR covers all aspects of this challenge:
+which theories, logics, or fragments are well-behaved in practice, and
+connect well to application domains? which reasoning tasks are
+tractable and useful? which algorithms are able to solve real-world
+instances? how should automated reasoning tools be designed,
+implemented, tested, and evaluated?
+
+The goal of PAAR is to bring together theoreticians, tool developers,
+and users, to concentrate on the practical aspects of automated
+reasoning. The workshop welcomes high-quality contributions of any
+kind, including new research results, presentation of work in
+progress, presentation of new tools, new implementation techniques,
+new application domains, or case studies.
+
+
+Submission Guidelines
+---------------------
+Researchers interested in participating are invited to submit either an
+extended abstract (up to 8 pages) or a regular paper (up to 15 pages), excluding
+references, via EasyChair at XXXX.
+Submissions will be refereed by the program committee, which will select a balanced 
+program of high-quality contributions. Short submissions that could stimulate 
+fruitful discussion at the workshop are particularly welcome.
+
+Submissions should be prepared in LaTeX using the CEUR-WS.org style template
+(CEURART, one-column). The package containing the class file and the user guide
+can be downloaded from http://ceur-ws.org/Vol-XXX/CEURART.zip.
+
+Topics include, but are not limited to:
+--------------------------------------
+* automated reasoning in propositional, first-order, higher-order, and
+  non-classical logics;
+* implementation of provers (SAT, SMT, resolution, superposition, tableau,
+   instantiation-based, rewriting, logical frameworks, etc.);
+* automated reasoning tools for all kinds of practical problems and
+  applications;
+* pragmatics of automated reasoning within proof assistants;
+* practical experiences, usability aspects, feasibility studies;
+* evaluation of implementation techniques and automated reasoning tools;
+* performance aspects, benchmarking approaches; non-standard approaches to
+  automated reasoning, non-standard forms of automated reasoning, new
+  applications;
+* implementation techniques, optimisation techniques, machine learning,
+  strategies and heuristics, fairness;
+* tools or methods that support prover development;
+* system descriptions and demos.  
+
+Invited Speakers
+-------------------
+
+* N.N.
+* N.N.
+
+Programme Committee
+-------------------
+
+* Cláudia Nalon, University of Brasília, BR (PC co-chair)
+* Alexander Steen, University of Greifswald, DE (PC co-chair)
+* Martin Suda, Czech Technical University in Prague, CZ (PC co-chair)
+* to be completed
+
+Publication
+-----------
+PAAR proceedings will be published electronically in a workshop
+proceedings venue (such as CEUR workshop proceedings or
+EasyChair Kalpa proceedings).
+
+Venue
+-----
+IJCAR 2024 in Nancy, France
+
+Important dates (extended deadlines)
+---------------
+* Abstract submission: XXX
+* Paper submission: XXX
+* Workshop: July 2, 2024

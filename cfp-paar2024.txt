@@ -9,9 +9,9 @@
              The paper submission deadline has been extended!
 
         Web site: https://paar2024.github.io/
-        Submission link: https://easychair.org/XXXX
-        Abstract registration deadline: XXX
-        Submission deadline: XXX
+        Submission link: https://easychair.org/conferences/?conf=paar2024
+        Abstract registration deadline: April 5, 2024
+        Submission deadline: April 12, 2024
         Topics: automated reasoning, implementation, tools
 
 
@@ -41,7 +41,7 @@ Submission Guidelines
 ---------------------
 Researchers interested in participating are invited to submit either an
 extended abstract (up to 8 pages) or a regular paper (up to 15 pages), excluding
-references, via EasyChair at XXXX.
+references, via EasyChair at https://easychair.org/conferences/?conf=paar2024.
 Submissions will be refereed by the program committee, which will select a balanced 
 program of high-quality contributions. Short submissions that could stimulate 
 fruitful discussion at the workshop are particularly welcome.
@@ -93,8 +93,8 @@ Venue
 -----
 IJCAR 2024 in Nancy, France
 
-Important dates (extended deadlines)
+Important dates
 ---------------
-* Abstract submission: XXX
-* Paper submission: XXX
+* Abstract submission: April 5, 2024
+* Paper submission: April 12, 2024
 * Workshop: July 2, 2024

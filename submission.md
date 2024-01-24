@@ -6,6 +6,6 @@
 
 Submissions should be in PDF. Final versions should be prepared in LaTeX using the CEUR-WS.org style template [CEURART](http://ceur-ws.org/Vol-XXX/CEURART.zip) available at http://ceur-ws.org/Vol-XXX/CEURART.zip. An [Overleaf template is also available](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/hpvjjzhjxzjk). Paper need to be submitted through the EasyChair page. PAAR proceedings will be published electronically as CEUR workshop proceedings. 
 
-Call for Papers: Available soon. <!--Available on [EasyChair Smart CFP](TBA) or as [Plaintext file](cfp-paar2024.txt).-->
+Call for Papers: Available <!--on [EasyChair Smart CFP](TBA) or--> as [Plaintext file](cfp-paar2024.txt).
 
 Submission URL (EasyChair): [https://easychair.org/conferences/?conf=paar2024](https://easychair.org/conferences/?conf=paar2024)

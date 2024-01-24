@@ -1,4 +1,4 @@
-## Submission
+## Call for Papers/Submission
 
 <!--<p style="border:1px solid black;padding: 2px 4px"><span style="font-weight: bold">Paper submission closed</span> since May 9, 2022</p>-->
 

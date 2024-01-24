@@ -4,9 +4,7 @@
         PAAR-2024: 9TH WORKSHOP ON PRACTICAL ASPECTS OF AUTOMATED REASONING 
                    -- co-located with IJCAR 2024  -- 
                                                                             
-                      July 2, 2024, Haifa, Israel
-                     
-             The paper submission deadline has been extended!
+                      July 2, 2024, Nancy, France
 
         Web site: https://paar2024.github.io/
         Submission link: https://easychair.org/conferences/?conf=paar2024

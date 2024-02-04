@@ -5,6 +5,22 @@
 * <a href="https://nalon.org/">Cláudia Nalon</a>, University of Brasília, BR (PC co-chair)
 * <a href="https://www.alexandersteen.de/">Alexander Steen</a>, University of Greifswald, DE (PC co-chair)
 * <a href="https://ricaip.eu/martin-suda/">Martin Suda</a>, Czech Technical University in Prague, CZ (PC co-chair)
+* Hans de Nivelle, Nazarbayev University, KZ
+* Pascal Fontaine, Université de Liège, BE
+* Ulrich Furbach, University of Koblenz, DE
+* Jan Jakubuv, Czech Technical University in Prague, CZ
+* Cezary Kaliszyk, University of Innsbruck, AT
+* Daniela Kaufmann, TU Vienna, AU
+* Daniel Le Berre, CNRS - Université d'Artois, FR
+* Ondrej Lengal, Brno University of Technology, CZ
+* Michael Rawson, TU Vienna, AU
+* Philipp Ruemmer, Uppsala University, SE
+* Renate A. Schmidt, The University of Manchester, UK
+* Stephan Schulz, DHBW Stuttgart, DE
+* Frieder Stolzenburg, Harz University of Applied Sciences, DE
+* Geoff Sutcliffe, University of Miami, US
+* Sophie Tourret, Inria and MPI for Informatics, DE
+* Zsolt Zombori, Alfréd Rényi Institute of Mathematics, Hungarian Academy of Sciences, HU
 * to be completed
 
 ### PAAR Steering Committee

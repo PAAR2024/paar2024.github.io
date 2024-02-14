@@ -5,14 +5,17 @@
 * <a href="https://nalon.org/">Cláudia Nalon</a>, University of Brasília, BR (PC co-chair)
 * <a href="https://www.alexandersteen.de/">Alexander Steen</a>, University of Greifswald, DE (PC co-chair)
 * <a href="https://ricaip.eu/martin-suda/">Martin Suda</a>, Czech Technical University in Prague, CZ (PC co-chair)
+* Gabriel Ebner, Microsoft Research, US
 * Hans de Nivelle, Nazarbayev University, KZ
 * Pascal Fontaine, Université de Liège, BE
 * Ulrich Furbach, University of Koblenz, DE
 * Jan Jakubuv, Czech Technical University in Prague, CZ
 * Cezary Kaliszyk, University of Innsbruck, AT
 * Daniela Kaufmann, TU Vienna, AU
+* Boris Konev, University of Liverpool, UK
 * Daniel Le Berre, CNRS - Université d'Artois, FR
 * Ondrej Lengal, Brno University of Technology, CZ
+* Tomer Libal, University of Luxembourg, LU
 * Michael Rawson, TU Vienna, AU
 * Philipp Ruemmer, Uppsala University, SE
 * Renate A. Schmidt, The University of Manchester, UK

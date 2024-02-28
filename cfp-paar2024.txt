@@ -79,7 +79,25 @@ Programme Committee
 * Cláudia Nalon, University of Brasília, BR (PC co-chair)
 * Alexander Steen, University of Greifswald, DE (PC co-chair)
 * Martin Suda, Czech Technical University in Prague, CZ (PC co-chair)
-* to be completed
+* Gabriel Ebner, Microsoft Research, US
+* Hans de Nivelle, Nazarbayev University, KZ
+* Pascal Fontaine, Université de Liège, BE
+* Ulrich Furbach, University of Koblenz, DE
+* Jan Jakubuv, Czech Technical University in Prague, CZ
+* Cezary Kaliszyk, University of Innsbruck, AT
+* Daniela Kaufmann, TU Vienna, AU
+* Boris Konev, University of Liverpool, UK
+* Daniel Le Berre, CNRS - Université d’Artois, FR
+* Ondrej Lengal, Brno University of Technology, CZ
+* Tomer Libal, University of Luxembourg, LU
+* Michael Rawson, TU Vienna, AU
+* Philipp Ruemmer, Uppsala University, SE
+* Renate A. Schmidt, The University of Manchester, UK
+* Stephan Schulz, DHBW Stuttgart, DE
+* Frieder Stolzenburg, Harz University of Applied Sciences, DE
+* Geoff Sutcliffe, University of Miami, US
+* Sophie Tourret, Inria and MPI for Informatics, DE
+* Zsolt Zombori, Alfréd Rényi Institute of Mathematics, Hungarian Academy of Sciences, HU
 
 Publication
 -----------

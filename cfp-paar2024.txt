@@ -81,6 +81,7 @@ Programme Committee
 * Martin Suda, Czech Technical University in Prague, CZ (PC co-chair)
 * Gabriel Ebner, Microsoft Research, US
 * Hans de Nivelle, Nazarbayev University, KZ
+* Mathias Fleury, University of Freiburg, DE
 * Pascal Fontaine, Université de Liège, BE
 * Ulrich Furbach, University of Koblenz, DE
 * Jan Jakubuv, Czech Technical University in Prague, CZ

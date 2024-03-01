@@ -7,6 +7,7 @@
 * <a href="https://ricaip.eu/martin-suda/">Martin Suda</a>, Czech Technical University in Prague, CZ (PC co-chair)
 * Gabriel Ebner, Microsoft Research, US
 * Hans de Nivelle, Nazarbayev University, KZ
+* Mathias Fleury, University of Freiburg, DE
 * Pascal Fontaine, Université de Liège, BE
 * Ulrich Furbach, University of Koblenz, DE
 * Jan Jakubuv, Czech Technical University in Prague, CZ
@@ -24,7 +25,6 @@
 * Geoff Sutcliffe, University of Miami, US
 * Sophie Tourret, Inria and MPI for Informatics, DE
 * Zsolt Zombori, Alfréd Rényi Institute of Mathematics, Hungarian Academy of Sciences, HU
-* to be completed
 
 ### PAAR Steering Committee
 

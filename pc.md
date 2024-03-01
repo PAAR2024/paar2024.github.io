@@ -26,7 +26,7 @@
 * Sophie Tourret, Inria and MPI for Informatics, DE
 * Zsolt Zombori, Alfréd Rényi Institute of Mathematics, Hungarian Academy of Sciences, HU
 
-### PAAR Steering Committee
+### Steering Committee
 
 * <a href="https://cgi.csc.liv.ac.uk/~konev/">Boris Konev</a>
 * <a href="http://www.cs.man.ac.uk/~schmidt/">Renate Schmidt</a>

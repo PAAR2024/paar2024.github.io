@@ -1,7 +1,7 @@
 ## Important Dates
 
-* Abstract submission: <u>April 5, 2024</u> April 19, 2024
-* Paper submission: <u>April 12, 2024</u> April 26, 2024
+* Abstract submission: <s>April 5, 2024</s> April 19, 2024
+* Paper submission: <s>April 12, 2024</s> April 26, 2024
 * Author notification: June 1, 2024
 * Camera-ready paper versions due: June 14, 2024
 * Workshop: July 2, 2024

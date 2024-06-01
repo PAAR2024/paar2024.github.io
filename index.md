@@ -5,7 +5,7 @@
 The Ninth Workshop on Practical Aspects of Automated Reasoning will take place on July 2 2024
 in Nancy, France. PAAR 2024 is associated with the 12th International Joint Conference on Automated Reasoning (<a href="https://merz.gitlabpages.inria.fr/2024-ijcar/">IJCAR 2024</a>).
 
-<p style="border:1px solid black;padding: 2px 4px"><span style="font-weight: bold">Paper submission closed</span><br> Accepted papers will be communicated soon.</p>
+<p style="border:1px solid black;padding: 2px 4px"><b>Accepted papers are available!</b> See <a href="{{ "accepted.html" }}">Accepted Papers</a>.<br> Remember to register until June 4 (end of IJCAR early registration)!</p>
 
 ### Scope
 PAAR provides a forum for developers of automated reasoning tools to discuss and compare different

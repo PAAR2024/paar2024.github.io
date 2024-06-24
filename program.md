@@ -15,7 +15,8 @@ This is a draft program, and might still change slightly.
 | 12:00 - 12:30  | Prefixed Tableaux and Decision Procedures for Many-Valued Modal Logics <br> _Guy Axelrod and Willem Conradie_ |
 |                | _Lunch break_                                            |
 | **Session 3**  |                                                          |
-| 14:00 - 15:00  | André Platzer (invited talk), title: <a href="{{ "invited.html" }}">tba</a>                      |
+| 14:00 - 15:00  | André Platzer (invited talk), title: <a href="{{ "invited.html" }}">Uniform Substitution.
+or: How I Learned to Stop Worrying and Love the Substitution</a>                      |
 | 15:00 - 15:30  | A Natural-Language Proof Assistant for Higher-Order Logic  <br> _Adam Dingle_                                 |
 | 15:30 - 16:00  | Cautious Specialization of Strategy Schedules  <br> _Filip Bártek, Karel Chvalovský and Martin Suda_    |
 |                | _Coffee break (end of workshop)_                                           |

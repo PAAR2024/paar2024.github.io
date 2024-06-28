@@ -6,7 +6,7 @@ This is a draft program, and might still change slightly.
 |                | **Tuesday, July 2**                          |
 |----------------|----------------------------------------------------------|
 | **Session 1**  |                                                          |
-| 09:00-10:00    | Martina Seidl (invited talk), title: <a href="{{ "invited.html" }}">tba</a>                                   |
+| 09:00-10:00    | Martina Seidl (invited talk), title: <a href="{{ "invited.html" }}">Solution-Counting for Quantified Boolean Formulas</a>                                   |
 | 10:00-10:30    | TPTP World Infrastructure for Non-classical Logics <br> _Alexander Steen and Geoff Sutcliffe_   |
 |                | _Coffee break_                                           |
 | **Session 2**  |                                                          |

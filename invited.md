@@ -3,15 +3,21 @@
 ### Martina Seidl (Johannes Kepler Universität Linz, AT)
 #### July 2, 09:00 - 10:00
 
-Talk: TBA
+Talk: <b>Solution-Counting for Quantified Boolean Formulas</b>
 
-Abstract: TBA
+Abstract: In this talk, we survey recent results on counting the numbers
+of solutions of quantified Boolean formulas (QBFs). In contrast
+to counting in propositional logic, the solution count for true and
+false formulas can be calculated dually. We present approaches for
+counting at the outer quantifier level, counting at the 2nd level,
+and for arbitrary counting.
+
 
 ### André Platzer (Karlsruhe Institute of Technology, DE)
 #### July 2, 14:00 - 15:00
 
-Talk: Uniform Substitution.<br>
-or: How I Learned to Stop Worrying and Love the Substitution.
+Talk: <b>Uniform Substitution.<br>
+or: How I Learned to Stop Worrying and Love the Substitution.</b>
 
 Abstract: Virtually every first-rate logician defined the operation of substitution, and almost everyone got it wrong at some point. Uniform substitutions are Alonzo Church's substitutions that uniformly replace function symbols with terms and predicate symbols with formulas in first-order logic. Uniform substitutions mark the difference between an infinite axiom schema and a finite concrete formula as axioms. This philosophical difference impacts practical theorem provers by being the secret to small soundness-critical prover microkernels. Uniform substitutions replace soundness-critical inference algorithms with mere finite table lookups. With suitable generalizations, uniform substitutions have been shown to succeed in differential dynamic logic for hybrid systems, differential game logic for differential hybrid games, and dynamic logic for communicating hybrid programs. Maybe uniform substitutions can come to a prover near you in the near future?
 
